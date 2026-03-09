@@ -1,0 +1,120 @@
+[
+  {
+    "revokedKey": {
+      "remoteJid": "120363422335536227@g.us",
+      "fromMe": true,
+      "id": "3EB0F215C96433230D4753"
+    },
+    "cached": null,
+    "time": "3/7/2026, 1:49:01 PM"
+  },
+  {
+    "revokedKey": {
+      "remoteJid": "120363422335536227@g.us",
+      "fromMe": true,
+      "id": "3EB003B2741447CCA16072"
+    },
+    "cached": null,
+    "time": "3/8/2026, 8:23:33 AM"
+  },
+  {
+    "revokedKey": {
+      "remoteJid": "135657229943022@lid",
+      "fromMe": true,
+      "id": "A537F694AD21EFDB54879A217BA8FC27"
+    },
+    "cached": {
+      "pushName": "Ekemini Emmanuel",
+      "timestamp": 1772983512,
+      "message": null
+    },
+    "time": "3/8/2026, 8:25:16 AM"
+  },
+  {
+    "revokedKey": {
+      "remoteJid": "120363422335536227@g.us",
+      "fromMe": true,
+      "id": "ACE62B78AFDAF9599C30C7DD53EB2090"
+    },
+    "cached": {
+      "pushName": "ANONYMOUS 😷",
+      "timestamp": 1772983556,
+      "message": "Ucazuezceuczeuczeu"
+    },
+    "time": "3/8/2026, 8:26:02 AM"
+  },
+  {
+    "revokedKey": {
+      "remoteJid": "120363422335536227@g.us",
+      "fromMe": true,
+      "id": "AC3C85A08FEAF42A5844B5E08AAE57BC"
+    },
+    "cached": {
+      "pushName": "ANONYMOUS 😷",
+      "timestamp": 1772983630,
+      "message": "😂😂😂😂😂😂😂😂😂"
+    },
+    "time": "3/8/2026, 8:27:13 AM"
+  },
+  {
+    "revokedKey": {
+      "remoteJid": "135657229943022@lid",
+      "fromMe": true,
+      "id": "AC5859D7E8B9DA2C50E5997DBFB6F943"
+    },
+    "cached": {
+      "pushName": "ANONYMOUS 😷",
+      "timestamp": 1772983643,
+      "message": "😭😭😭😭😭"
+    },
+    "time": "3/8/2026, 8:27:31 AM"
+  },
+  {
+    "revokedKey": {
+      "remoteJid": "120363422335536227@g.us",
+      "fromMe": true,
+      "id": "A568675E026FE4DCAA07B9D010AB2F0F"
+    },
+    "cached": {
+      "pushName": "⟦ 𓆩𖤍 NΞXØRΛ 𖤍𓆪 ⟧",
+      "timestamp": 1772984124,
+      "message": "> hdhsvsisv"
+    },
+    "time": "3/8/2026, 8:35:28 AM"
+  },
+  {
+    "revokedKey": {
+      "remoteJid": "120363422335536227@g.us",
+      "fromMe": true,
+      "id": "A5EF45B6E91BD7995238D53DDD69C29C"
+    },
+    "cached": {
+      "pushName": "⟦ 𓆩𖤍 NΞXØRΛ 𖤍𓆪 ⟧",
+      "timestamp": 1772984180,
+      "message": null
+    },
+    "time": "3/8/2026, 8:36:25 AM"
+  },
+  {
+    "revokedKey": {
+      "remoteJid": "120363422335536227@g.us",
+      "fromMe": true,
+      "id": "A5F693EA389233C15F0AFD2D254722A2"
+    },
+    "cached": {
+      "pushName": "⟦ 𓆩𖤍 NΞXØRΛ 𖤍𓆪 ⟧",
+      "timestamp": 1772984395,
+      "message": "This is Nexora antidelete function"
+    },
+    "time": "3/8/2026, 8:40:00 AM"
+  },
+  {
+    "revokedKey": {
+      "remoteJid": "120363420147110712@g.us",
+      "fromMe": true,
+      "id": "3EB0C0D5350ACECAEC417D"
+    },
+    "cached": null,
+    "time": "3/8/2026, 11:38:01 AM"
+  }
+]

@@ -1,0 +1,34 @@
+{
+    "name": "nexora-v2",
+    "version": "1.0.0",
+    "main": "backend/bots/index.js",
+    "scripts": {
+        "start": "node backend/bots/bot.js",
+        "bot": "node backend/bots/bot.js",
+        "bot:win": "node backend/bots/bot.js",
+        "clean:auth": "node -e \"require('fs').rmSync('backend/bots/auth_info',{recursive:true,force:true});console.log('auth_info cleaned')\"",
+        "bot:fresh": "npm run clean:auth && npm run bot"
+    },
+    "dependencies": {
+        "@whiskeysockets/baileys": "^7.0.0-rc.9",
+        "axios": "^1.13.6",
+        "express": "^4.18.2",
+        "ffmpeg-static": "^5.3.0",
+        "fluent-ffmpeg": "^2.1.3",
+        "fs-extra": "^11.3.4",
+        "index.js": "^0.0.3",
+        "node-cache": "^5.1.2",
+        "node-telegram-bot-api": "^0.63.0",
+        "npm": "^11.11.0",
+        "openai": "^6.25.0",
+        "qrcode": "^1.5.4",
+        "socket.io": "^4.8.3",
+        "start": "^5.1.0",
+        "uuid": "^13.0.0",
+        "ytdl-core": "^4.11.5"
+    },
+    "description": "",
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
